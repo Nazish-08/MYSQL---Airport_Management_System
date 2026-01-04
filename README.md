@@ -1,4 +1,4 @@
-# SQL-Airport_Management_System
+# MYSQL-Airport_Management_System
 
 # Airport Management System (SQL)
 
